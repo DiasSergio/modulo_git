@@ -8,4 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2024-08-22
 ### Added
-- Added changelog.md
+- Added changelog.md / ebac course
